@@ -10,6 +10,10 @@
     text-align: center;
 }
 
+.navbar-nav li a {
+    line-height: 50px;
+}
+
 .fa-twitter {
 }
 
