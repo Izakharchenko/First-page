@@ -1,21 +1,25 @@
 /*body { padding-bottom: 70px; }*/
 
-.navbar .navbar-nav {
-    display: inline-block;
-    float: none;
-    vertical-align: top;
-}
+/*.navbar .navbar-nav {*/
+    /*display: inline-block;*/
+    /*float: none;*/
+    /*vertical-align: top;*/
+/*}*/
 
-.navbar .navbar-collapse {
-    text-align: center;
-}
+/*.navbar .navbar-collapse {*/
+    /*text-align: center;*/
+/*}*/
 
-.navbar-nav li a {
-    line-height: 50px;
-}
+/*.navbar-nav li a {*/
+    /*line-height: 50px;*/
+/*}*/
 
-.fa-twitter {
-}
+/*.navbar{*/
+    /*height: 146px;*/
+/*}*/
+
+/*.fa-twitter {*/
+/*}*/
 
 /*.fa-facebook-f:before,*/
 /*.fa-facebook:before {*/
@@ -24,10 +28,10 @@
     /*background-color: #2b669a;*/
 
 /*}*/
-.w {
-    width: 100%;
-    height: 423px;
-}
+/*.w {*/
+    /*width: 100%;*/
+    /*height: 423px;*/
+/*}*/
 .partners {
     height: 60px;
     padding-top: 1px;
@@ -35,9 +39,7 @@
     border-bottom: 2px solid #313f4a;
     border-top: 2px solid #313f4a;
 }
-.navbar{
-    height: 146px;
-}
+
 footer{
     background-color: rgb(51, 58, 64);
 }
